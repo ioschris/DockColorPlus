@@ -1,0 +1,10 @@
+Package: com.chfreeware.dockcolor+
+Name: DockColor+
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Change the color of your dock!
+Depiction: http://chrisharrisdev.com/repo/depictions/dockcolorplus.html
+Maintainer: iOSChris <ioschrisharris@gmail.com>
+Author: iOSChris <ioschrisharris@gmail.com>
+Section: Tweaks
